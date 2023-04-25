@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.vhrs_flutter_project",
+            "sha256_cert_fingerprints": [
+                "56:96:A0:68:E7:3B:6C:28:4B:9A:7A:6F:FC:87:AB:A4:34:31:AE:AD:CA:F6:08:0B:A1:A2:6C:89:74:C1:2D:B8"
+            ]
+        }
+    }
+]
